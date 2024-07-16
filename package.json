@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-yoake-ollama-bot",
   "description": "对接ollama接口和vit-simple-api项目接口",
-  "version": "1.0.0-beta1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,7 +9,7 @@
     "dist"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/xinyuanxiaolin",
+  "homepage": "https://github.com/xinyuanxiaolin/yoake-ollama-bot",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xinyuanxiaolin/yoake-ollama-bot.git"
